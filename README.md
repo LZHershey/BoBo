@@ -1,7 +1,7 @@
 
-## Demo
+## Demo Video
 
-Insert gif or link to demo
+https://www.youtube.com/watch?v=EBGnPnuomMc&list=PLx0iOsdUOUmk87kPt6w6Ga6o1sfVoMugS&index=16
 
 
 # BOBO: Movie Recommendation and Party Starter
